@@ -20,6 +20,7 @@ MediScribe interprets voice commands like:
 
 ![Landing Page Preview](./designs/landingPage.png)  
 ![Documentation Preview](./designs/documentation.png)  
+![OmniDimensionAgent Preview](./designs/OmniDimensionAgent.png)  
 ![Live Conversation Preview](./designs/liveConversation.png)  
 ![Digi Prescription Preview](./designs/digiPrescription.png)  
 ![Fitness Generator Preview](./designs/fitnessGenerator.png)
